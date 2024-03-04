@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prabhnoorsingh2782003@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/prabhnoor-singh-a21ba4230](prabhnoor-singh-a21ba4230)
+- 📄 Know about my experiences [https://linkedin.com/in/prabhnoor-singh-a21ba4230](https:/linkedin.com/in/prabhnoor-singh-a21ba4230)
 
 - ⚡ Fun fact **I really enjoy learning languages and frameworks like React and React Native.**
 
