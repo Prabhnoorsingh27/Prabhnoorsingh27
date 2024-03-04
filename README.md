@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **prabhnoorsingh2782003@gmail.com**
 
-- 📄 Know about my experiences [prabhnoor-singh-a21ba4230](prabhnoor-singh-a21ba4230)
+- 📄 Know about my experiences [linkedin.com/in/prabhnoor-singh-a21ba4230](prabhnoor-singh-a21ba4230)
 
 - ⚡ Fun fact **I really enjoy learning languages and frameworks like React and React Native.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/prabhnoor-singh-a21ba4230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prabhnoor-singh-a21ba4230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhnoor-singh-a21ba4230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prabhnoor-singh-a21ba4230" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
